@@ -1,0 +1,8 @@
+Test-RealTimeSound.mov
+
+# Java classes
+*.class
+
+
+# Files Setting macOS
+.DS_Store
